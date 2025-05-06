@@ -12,10 +12,10 @@ Clustering Steps
 - Evaluate clustering using Silhouette Score.
 
 Files
-data/Mall_Customers.csv: The dataset used
+- data/Mall_Customers.csv: The dataset used
 
 Libraries Used
-pandas
-scikit-learn
-warnings
-matplotlib
+- pandas
+- scikit-learn
+- warnings
+- matplotlib
